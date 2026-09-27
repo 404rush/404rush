@@ -1,1 +1,1 @@
-<img width="1920" height="1200" alt="Hello RGB-1 (2) no bg" src="https://github.com/user-attachments/assets/e15ba3f3-f91d-4b80-b027-7b69892a737c" />
+<img width="1791" height="585" alt="Hello, Welcome to my Profile!" src="https://github.com/user-attachments/assets/12fbd540-2867-470e-b3a2-704db1a2e68e" />
